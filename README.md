@@ -6,6 +6,6 @@
 	<title>HELLO COURSERA</title>
 </head>
 <body>
-BEAUTIFUL WORLD!!! JOIN WITH US...HEPPY??
+BEAUTIFUL WORLD!!! JOIN WITH US...HAPPY??
 </body>
 </html>
