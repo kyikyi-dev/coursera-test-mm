@@ -1,6 +1,4 @@
-# coursera-test-mm
-Coursera test repository
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
